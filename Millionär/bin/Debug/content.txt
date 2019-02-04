@@ -1,0 +1,89 @@
+1=Welchen Anstieg mit steigendem Einkommen nennt man Steuerprogression?|A
+|A=Anstieg der Steuerbelastung
+|B=Anstieg des Meeresspiegels
+|C=Anstieg der Tangente
+|D=Anstieg des Fleischkonsums
+
+2=Welchen staatlichen Zwangsabgaben steht keine direkte Leistung gegenueber?|D
+|A=Subventionen
+|B=Krankenversicherungsbeiträge
+|C=Diaeten
+|D=Steuern
+
+3=Was versteht man unter einem Staat?|A
+|A=Bund, Laender, und Gemeinden
+|B=Grosse und zentralisierte Siedlung 
+|C=Alle Bundeslaender zusammen
+|D=Der Vorgang des "Aussaeens"
+
+4=Wie wird der Haushaltsplan unter anderem noch genannt?|A
+|A=Budget
+|B=Kapital
+|C=Ueberschuss
+|D=Haushaltsprogramm
+
+5=Welche Aufgabe hat der Staat nicht?|D
+|A=Allokationsfunktion
+|B=Verteilungsfunktion
+|C=Stabilisierungsfunktion
+|D=Integrationsfunktion
+
+6=Was zaehlt man u.a. zu direkten Steuern?|C
+|A=Mehrwertsteuer
+|B=Schaumweinsteuer
+|C=Erbschaftssteuer
+|D=Kraftfahrzeugsteuer
+
+7=Wie nennt man das Verhaeltnis zwischen den Staatsausgaben und dem erwirtschafteten BIP?|B
+|A=Die Staatsdifferenz
+|B=Die Staatsquote
+|C=Die Staatswirtschaft
+|D=Der Staatsquotient
+
+8=Was bestimmt die Abgabenquote?|C
+|A=Hoehe fuer die Sozialabgaben
+|B=Der Prozentsatz der zu zahlenden Steuern
+|C=Mass für gesamtwirtschaftliche Abgabenniveau
+|D=Die Anzahl der abgegebenen Wahlstimmen
+
+9=Was regelt die Verteilung der Einnahmen zwischen den Gebietskoerperschaften?|C
+|A=Gebietskoerperschaftsverteilungsamt
+|B=Ein Verteilungsgesetz
+|C=Der Finanzausgleich
+|D=Die DIN-Norm 8005
+
+10=Welchen Weg kann die Horizontale Umverteilung nicht gehen?|C
+|A=Gesunden zu Kranken
+|B=Arbeitnehmer zu Arbeitslosen
+|C=kinderreichen zu kinderlosen Familien
+|D=Berufstaetigen zu Pensionisten
+
+11=Welche Steuer hatte den zweitgrößten Anteil am Gesamtaufkommen 2006?|C
+|A=Kfz-Steuer
+|B=Einkommenssteuer
+|C=Umsatzsteuer
+|D=Gewerbesteuer
+
+12=Die Staatsquote welchen Landes hat sich innerhalb von 15 Jahren um 9% verringert?|C
+|A=Portugal
+|B=Deutschland
+|C=Niederlande
+|D=Griechenland
+
+13=Platzhalter|A
+|A=1
+|B=2
+|C=3
+|D=4
+
+14=Platzhalter|A
+|A=1
+|B=2
+|C=3
+|D=4
+
+15=Platzhalter|A
+|A=1
+|B=2
+|C=3
+|D=4
